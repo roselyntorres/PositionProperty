@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+    background: #efefef;
+}
+ 
+.fixed {
+    position: fixed;
+    background: #cc0000;
+    color: #ffffff;
+    padding: 30px;
+    top: 50px;
+    left: 10px;
+}
+ 
+span {
+    padding: 5px;
+    border: 1px #ffffff dotted;
+}
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+    background: #efefef;
+}
+ 
+.fixed2 {
+    position: fixed;
+    background: #49508a;
+    color: #ffffff;
+    padding: 30px;
+    bottom: 50px;
+    right: 10px;
+}
+ 
+span {
+    padding: 5px;
+    border: 1px #ffffff dotted;
+}
